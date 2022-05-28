@@ -1,0 +1,32 @@
+.grid-container {
+  margin: 3% 1% auto;
+}
+
+.navbar {
+  background-color: orange;
+}
+
+.navbar-brand >b {
+  color: #282c34;
+  font-family: "cursive";
+  font-size: 30px;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 2px;
+  border:1px solid gray;
+  border-radius:7%;
+  font-size:0.875;
+  align-self: self-end;
+  word-wrap: break-word;
+  width: 155px;
+  max-width: 100%;
+}
+
+#navbarNav {
+  justify-content: space-evenly;
+}
